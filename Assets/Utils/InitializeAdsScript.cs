@@ -4,8 +4,8 @@ using UnityEngine.Advertisements;
 
 public class InitializeAdsScript : MonoBehaviour { 
 
-    string gameIdIOS = "3635781"; // iOS
-    string gameIdAndroid = "3635780"; // Android
+    string gameIdIOS = "3642017"; // iOS
+    string gameIdAndroid = "3642016"; // Android
     bool testMode = false;
 
     string placementId = "PlayScreen";
